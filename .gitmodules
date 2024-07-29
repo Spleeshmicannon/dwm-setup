@@ -1,0 +1,9 @@
+[submodule "dmenu"]
+	path = dmenu
+	url = ./dmenu
+[submodule "dwm"]
+	path = dwm
+	url = ./dwm
+[submodule "slstatus"]
+	path = slstatus
+	url = ./slstatus
