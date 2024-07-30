@@ -1,12 +1,12 @@
 [submodule "dmenu"]
 	path = dmenu
-	url = ./dmenu
+	url = "https://github.com/Spleeshmicannon/dmenu-fork.git"
 [submodule "dwm"]
 	path = dwm
-	url = ./dwm
+	url = "https://github.com/Spleeshmicannon/dwm-fork.git"
 [submodule "slstatus"]
 	path = slstatus
-	url = ./slstatus
+	url = "https://github.com/Spleeshmicannon/slstatus-fork.git"
 [submodule "st"]
 	path = st
-	url = ./st
+	url = "https://github.com/Spleeshmicannon/st-fork.git"
