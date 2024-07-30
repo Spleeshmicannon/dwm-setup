@@ -1,0 +1,5 @@
+xrandr --output DP-2 --refresh 155.00
+xrandr --output DP-0 --refresh 144.00
+xcompmgr -c &
+feh --bg-scale ~/Pictures/wall.jpg
+exec dwm & slstatus
